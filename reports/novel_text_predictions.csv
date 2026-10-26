@@ -1,0 +1,15 @@
+case_id,predicted_category,confidence,action,suggested_team,priority,true_category
+novel1,Account Access,0.4846888208307614,human_review,Support,human_review,Cancellation
+novel2,Account Access,0.27446719289141924,human_review,Support,human_review,How-To
+novel3,Account Access,0.2732985583645241,human_review,Support,human_review,Billing
+novel4,Bug,0.4468744843963057,human_review,Engineering,human_review,Account Access
+novel5,Account Access,0.2557157646359808,human_review,Support,human_review,Integration
+novel6,Integration,0.21478419605018723,human_review,Integrations,human_review,Feature Request
+novel7,Bug,0.21346858751706455,human_review,Engineering,human_review,Bug
+novel8,Billing,0.4220601849812139,human_review,Finance,human_review,Cancellation
+novel9,How-To,0.31946827657240334,human_review,Customer Success,human_review,How-To
+novel10,Account Access,0.27759670942835735,human_review,Support,human_review,Billing
+novel11,Account Access,0.26260527694904023,human_review,Support,human_review,Account Access
+novel12,Integration,0.36976190303916634,human_review,Integrations,human_review,Integration
+novel13,Bug,0.21638623338665797,human_review,Engineering,human_review,Feature Request
+novel14,Account Access,0.2548862980240758,human_review,Support,human_review,Bug

@@ -1,0 +1,2 @@
+[console_scripts]
+ledgerly-generate = ledgerly.generate:main

@@ -1,0 +1,485 @@
+case_id,predicted_category,confidence,action,suggested_team,priority
+500mxrXm41J0tF8B02,How-To,0.874565534207985,suggest_route,Customer Success,human_review
+500QZQuSgMJXOTh7ky,Bug,0.9637776967175381,suggest_route,Engineering,human_review
+500FU3eQmujcewx2E0,Integration,0.6571481157493861,suggest_route,Integrations,human_review
+500bpCoVky4gUGfSSm,Billing,0.9012051973479102,suggest_route,Finance,human_review
+500bHL51bPQDTKs23P,Cancellation,0.8125409401110267,human_review,Retention,human_review
+500ivQBImFoM9Xuzrz,How-To,0.8261243296423627,suggest_route,Customer Success,human_review
+500qpeNCceujRsrXd1,Cancellation,0.9373571581375602,human_review,Retention,human_review
+500CTiH73MaFHHmiTs,Feature Request,0.8832863914124048,suggest_route,Product,human_review
+500dSQZfmpjjyvs7D9,Bug,0.884704262094487,suggest_route,Engineering,human_review
+500Er9iln8HMRrf8CL,Bug,0.8600267578707218,suggest_route,Engineering,human_review
+5004hgJwheG82tvc72,Billing,0.879772789239003,suggest_route,Finance,human_review
+500CZLNkVymn6NGmyc,How-To,0.9355355557299118,suggest_route,Customer Success,human_review
+500slB5bgCYYFChPAl,How-To,0.8686503180863184,suggest_route,Customer Success,human_review
+500GwtNyJa7vU2vGcD,How-To,0.9008381023279964,suggest_route,Customer Success,human_review
+500cNaDjAHjZ3qviL7,Billing,0.8713890949217912,suggest_route,Finance,human_review
+500SNMKVuQywBrOuro,Bug,0.9627845581222094,suggest_route,Engineering,human_review
+500Uo5ikiImTcsWFmt,How-To,0.8715949871092481,suggest_route,Customer Success,human_review
+500N9P5qvwqV2ZUSTH,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500uZ86nXUs4dhDfBy,Billing,0.9098774500799939,suggest_route,Finance,human_review
+500f4Cw1VSQjk7gv6o,Feature Request,0.9533807633113142,suggest_route,Product,human_review
+500KYCg9W172DBRNjd,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500ViRlyVM5O2ON9a1,Billing,0.9098774500799939,suggest_route,Finance,human_review
+500HrF42B6TdmYqYze,How-To,0.7843733495459032,suggest_route,Customer Success,human_review
+500mIKQPW0bf2i3rlu,Billing,0.9012051973479102,suggest_route,Finance,human_review
+500o9mkK5mAewoOFZU,Feature Request,0.940270008355189,suggest_route,Product,human_review
+500OK9HX9IcUUuh8hU,How-To,0.9480864086689845,suggest_route,Customer Success,human_review
+5008wljjIPx9J5fa2D,Integration,0.8803404939135115,suggest_route,Integrations,human_review
+500QHExokTNqBFStQg,Feature Request,0.9351556901472068,suggest_route,Product,human_review
+500A4K6ryxeOrtZysi,Account Access,0.9522748377739229,suggest_route,Support,human_review
+500OYOI1d48SSImgOE,How-To,0.8768892891519943,suggest_route,Customer Success,human_review
+500q98PWkKuvkkwFH7,Feature Request,0.9278840063661814,suggest_route,Product,human_review
+500r1p085U9f5OyY39,How-To,0.7510381007704398,suggest_route,Customer Success,human_review
+500veGcARyc37AJ6Oj,How-To,0.951368091967291,suggest_route,Customer Success,human_review
+500PTPPbNN3wFhavSH,Bug,0.9176234909888161,suggest_route,Engineering,human_review
+500vb7zL5dEs4xuLxH,Billing,0.8994126358056266,suggest_route,Finance,human_review
+5004niBu6mgyoyEVSG,Account Access,0.8799803507514031,suggest_route,Support,human_review
+500NRdKyPWsEQPgri2,How-To,0.8597216188556289,suggest_route,Customer Success,human_review
+500jMvtztImX1jntUS,Feature Request,0.9563861253650261,suggest_route,Product,human_review
+500XzFdzcWa85Y5MZX,Bug,0.8011564166528455,suggest_route,Engineering,human_review
+500RNZN5mYictPQTHN,How-To,0.8353791608635041,suggest_route,Customer Success,human_review
+5006jF1FAUkY3y9Tbj,How-To,0.7843733495459032,suggest_route,Customer Success,human_review
+500PvBU7xhGpzYBnVx,Billing,0.7126812152266868,suggest_route,Finance,human_review
+500WgOYbu5NZziTuq0,Feature Request,0.8948874549238893,suggest_route,Product,human_review
+5009FVSyoNzwmIzmxJ,Integration,0.835319563943065,suggest_route,Integrations,human_review
+500jiHUMoNILt9yxAR,Billing,0.818030329264068,suggest_route,Finance,human_review
+500IpWqPk9JFyb3AKV,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500EsuNg9esNFyCrjN,Integration,0.8803404939135115,suggest_route,Integrations,human_review
+5005yoSHVUI6SxVYau,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500ot402U5ixFh0CCO,How-To,0.858301176359678,suggest_route,Customer Success,human_review
+500DILZiloX7v9AT7o,Bug,0.7847888500485227,suggest_route,Engineering,human_review
+5002aJ0lRAiRKHs6GZ,How-To,0.9229110743056155,suggest_route,Customer Success,human_review
+500qCUPYI3O683u0UK,Bug,0.871534356539186,suggest_route,Engineering,human_review
+5006WvdMctwzYC3H4o,Integration,0.857410928993913,suggest_route,Integrations,human_review
+500z7VfKJNOg96mgKS,Integration,0.9215919735491537,suggest_route,Integrations,human_review
+5005A4MoOai7CeukAd,Cancellation,0.8360000941912323,human_review,Retention,human_review
+5006KGbgkiBpOYtpDm,How-To,0.941830284824424,suggest_route,Customer Success,human_review
+500ouRadZdTIcfadar,Integration,0.7966444614501355,suggest_route,Integrations,human_review
+500MdBBrlmXIRAD48n,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500hxlnpTZAmc9nskC,Bug,0.8851406848480665,suggest_route,Engineering,human_review
+500g5XwkvKOhM0GCU3,How-To,0.8929657570794735,suggest_route,Customer Success,human_review
+500mEp5jGnM1eOrJ5i,Integration,0.7266109187715566,suggest_route,Integrations,human_review
+500SCXBo5YLGjuGuWY,Account Access,0.8254085429742142,suggest_route,Support,human_review
+500XqIVRXTXtZtpYr4,How-To,0.7874386931815831,suggest_route,Customer Success,human_review
+500obx251e4Gj9rjjs,How-To,0.8450331891824275,suggest_route,Customer Success,human_review
+500KZ6HeCy7bvMh9jK,Integration,0.5895605070682699,suggest_route,Integrations,human_review
+500ZIhAr2lATgyUjui,Bug,0.9109207830077991,suggest_route,Engineering,human_review
+500RJ2CDBjYtQBkL8d,Account Access,0.9180410814479056,suggest_route,Support,human_review
+5002VIfLlrENN9nRBX,How-To,0.9342193215402879,suggest_route,Customer Success,human_review
+500P86skSqCyg5SpmY,How-To,0.8114205541617744,suggest_route,Customer Success,human_review
+500gTVJyAdI2psQ8zc,Bug,0.9109207830077991,suggest_route,Engineering,human_review
+500Jzqiwj474f58byG,Billing,0.8580101979629876,suggest_route,Finance,human_review
+500yqYMYs8MXgLozTr,Integration,0.9138485584250965,suggest_route,Integrations,human_review
+500VryUeir4gqu5IOK,Account Access,0.9520909906193041,suggest_route,Support,human_review
+500CuALlwQwskjySil,Bug,0.8359671893484494,suggest_route,Engineering,human_review
+500Yn75i74eAK5rHIc,How-To,0.7890973600102675,suggest_route,Customer Success,human_review
+500TIzR0mpzelUw5DT,How-To,0.8927812363225437,suggest_route,Customer Success,human_review
+500QoAr71m7DGP3Mnr,Integration,0.9566625498411133,suggest_route,Integrations,human_review
+500uvniv1B1W2BcupU,How-To,0.8642281394079135,suggest_route,Customer Success,human_review
+500KgWgIivDkTVhdFM,How-To,0.7659990782930087,suggest_route,Customer Success,human_review
+500c2qaGbyhPaclNEG,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500sqmDOfZYqAT5Xb0,Bug,0.939457694216998,suggest_route,Engineering,human_review
+500lPcOb1lV77qRSId,Bug,0.8347565115253727,suggest_route,Engineering,human_review
+500h5hJMVBEDqx5Ek8,How-To,0.9555823406346681,suggest_route,Customer Success,human_review
+500zcUV3UZGjJakPvB,Billing,0.7219660105239536,suggest_route,Finance,human_review
+500NJs7AkLopGG9zOv,How-To,0.6344226090294134,suggest_route,Customer Success,human_review
+500dPvOR3tL6tIFYhH,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500j4mE84DDxfhEIJ2,How-To,0.9322385691294779,suggest_route,Customer Success,human_review
+500Se1LKv9Q5S3cXRp,Account Access,0.9286164795579303,suggest_route,Support,human_review
+500PJUVjshlRMKxC1H,Bug,0.8153606728621595,suggest_route,Engineering,human_review
+500vrdEbg5IAtpd4oI,Account Access,0.8799803507514031,suggest_route,Support,human_review
+500oXUIfl9f2GeeD7Z,How-To,0.9510903790733429,suggest_route,Customer Success,human_review
+5002zS6eFuzXHmXWho,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500HxVCGXfV9mKhVbV,Integration,0.8932055780498407,suggest_route,Integrations,human_review
+500EDRO6I1zYJGb4qo,Bug,0.9109207830077991,suggest_route,Engineering,human_review
+50026Ra9fwXKtnjPtF,Account Access,0.8799803507514031,suggest_route,Support,human_review
+500rllYCHJikq0iZwu,Billing,0.9104506935425375,suggest_route,Finance,human_review
+500LqsQJxZZNLG56dH,Account Access,0.8799803507514031,suggest_route,Support,human_review
+500jnw4ogahspTahGm,Integration,0.9566625498411133,suggest_route,Integrations,human_review
+500woLk1Fo1mSa5EH2,How-To,0.8768892891519943,suggest_route,Customer Success,human_review
+500JABlOdsCP2z7Xhm,Bug,0.9637776967175381,suggest_route,Engineering,human_review
+500NytZdQCJGxZqMCA,Account Access,0.9520909906193041,suggest_route,Support,human_review
+5006mpm1zJtxfUqUCo,How-To,0.8721829309542841,suggest_route,Customer Success,human_review
+500AivPPOTM8Fx7YUe,Bug,0.888052386589971,suggest_route,Engineering,human_review
+5000Pv8MmU1Oq4agac,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500JifRb8vzKf6y0vZ,How-To,0.9007531917747005,suggest_route,Customer Success,human_review
+500wTPwHGjNDKrFTDf,How-To,0.813576798211945,suggest_route,Customer Success,human_review
+500CUQHcH6tIPQqLfV,Billing,0.9104506935425375,suggest_route,Finance,human_review
+500vFOfSEEIRju2K6Z,Bug,0.9466021618422806,suggest_route,Engineering,human_review
+50050YIEVHpaMlRaM2,Integration,0.6373726700473413,suggest_route,Integrations,human_review
+500Vv7gthmfuL3EECi,How-To,0.9464952901792905,suggest_route,Customer Success,human_review
+50052HYoeflZMI1vHV,Billing,0.8344742666030829,suggest_route,Finance,human_review
+5009yd50Cffgu8ftlp,Account Access,0.9180410814479056,suggest_route,Support,human_review
+5001hdcaUmfZMSvVWH,How-To,0.9126533065493817,suggest_route,Customer Success,human_review
+5001k7a0NySnfizB4q,Integration,0.9620451831570711,suggest_route,Integrations,human_review
+500n0sG3xy5lIPy7TW,Integration,0.8266220323523671,suggest_route,Integrations,human_review
+500s2J7r7OF2Swezex,Feature Request,0.9353855345659993,suggest_route,Product,human_review
+500fuzdrEZaqK7XhF6,Integration,0.9138485584250965,suggest_route,Integrations,human_review
+500itNa9y1sWoixo64,Bug,0.9466021618422806,suggest_route,Engineering,human_review
+5005CALQWE0HtRgMAh,Account Access,0.8254085429742142,suggest_route,Support,human_review
+5009Z8SNsLU3DWBtGc,Billing,0.8511912440532378,suggest_route,Finance,human_review
+500eLs2eJu8yiyIGXT,Bug,0.8979754668398635,suggest_route,Engineering,human_review
+500dUJitypMQO7x48y,How-To,0.7140504478537519,suggest_route,Customer Success,human_review
+500kSLt3G8n4KPR3IV,Bug,0.903130460922308,suggest_route,Engineering,human_review
+500k4kma1OiRelewmQ,How-To,0.884773673510895,suggest_route,Customer Success,human_review
+5005plQ1u5QRSEm97B,How-To,0.8965377204273747,suggest_route,Customer Success,human_review
+500Jga31GpZWO1iEK5,Billing,0.9351313462486995,suggest_route,Finance,human_review
+500CvArAm1gU26Y6lh,How-To,0.8721829309542841,suggest_route,Customer Success,human_review
+500arvD0ZegDoy6V6T,Integration,0.8855124554043308,suggest_route,Integrations,human_review
+500AIw9lHLdfJxRTiE,Feature Request,0.9266400215284363,suggest_route,Product,human_review
+500lUPPILINTmLmrnp,Cancellation,0.8125409401110267,human_review,Retention,human_review
+5009YJ6X7hTvYTEL2w,How-To,0.8751486138658661,suggest_route,Customer Success,human_review
+500H6zFDPinyiEGzlc,How-To,0.6863168259271051,suggest_route,Customer Success,human_review
+500I1qyTKjlBHI6RQB,Integration,0.8932055780498407,suggest_route,Integrations,human_review
+500QWQN2rurMlxgl6q,Integration,0.8860406313279768,suggest_route,Integrations,human_review
+500N247g45sssTMu0U,Account Access,0.9520909906193041,suggest_route,Support,human_review
+500iBaAGVKPeYd0oGL,How-To,0.9565235064353361,suggest_route,Customer Success,human_review
+500a1K3pmlvMy4ssiV,Billing,0.8857608654724465,suggest_route,Finance,human_review
+500VDYYDI5mISqOlin,Integration,0.6670698832419191,suggest_route,Integrations,human_review
+500THRu7Vzd62tT3Mu,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500KTRXHKnPOLLdinp,Integration,0.9165029150287034,suggest_route,Integrations,human_review
+500GAzuCFkU7x3E1Bh,Account Access,0.9520909906193041,suggest_route,Support,human_review
+500IIHBycZY0pPdM7Q,Integration,0.8983752978194304,suggest_route,Integrations,human_review
+5004IIvlyiNiz4U8Jk,Feature Request,0.9266400215284363,suggest_route,Product,human_review
+500bE5mAXVyvxTSFKB,How-To,0.8410082012687222,suggest_route,Customer Success,human_review
+500unU1ZWirRe6LPhs,How-To,0.8014224402061544,suggest_route,Customer Success,human_review
+500fGUBESelOeijilj,Bug,0.8292495427506517,suggest_route,Engineering,human_review
+500wBxScyxWKQPJ1iH,How-To,0.894063974489065,suggest_route,Customer Success,human_review
+500MieNGQwnfhTfKtj,Account Access,0.9522748377739229,suggest_route,Support,human_review
+500gtsicmLeiuFxBDW,Integration,0.9085287003099006,suggest_route,Integrations,human_review
+500xFAdUpPF9FSibUf,Bug,0.8416161664012292,suggest_route,Engineering,human_review
+500XRzYFJ1UKwG6LKh,Bug,0.932821736910519,suggest_route,Engineering,human_review
+500t0dE4ACFFWqU7pY,Cancellation,0.8459759040044169,human_review,Retention,human_review
+500WtcLPoqFYbsoNHr,Cancellation,0.8236101563378517,human_review,Retention,human_review
+500nkhZtgMwuONeLkY,Bug,0.8292495427506517,suggest_route,Engineering,human_review
+500FPdJFpETOKM47Df,How-To,0.9627659076742473,suggest_route,Customer Success,human_review
+500z6zobn0Bv1uEnxV,Integration,0.891312751434833,suggest_route,Integrations,human_review
+500pW38PKgPMlYqRa6,Billing,0.9012051973479102,suggest_route,Finance,human_review
+5004d5oKRxYGsTlI2N,How-To,0.9084367324193834,suggest_route,Customer Success,human_review
+500t9LaHoF9SygZETi,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500pssPkcHCbvmxWUw,Feature Request,0.8244954807943654,suggest_route,Product,human_review
+500at02of6Vh8RSEkf,Feature Request,0.9465371808821408,suggest_route,Product,human_review
+5006djsEaleaN2RSMw,Billing,0.8414001754404841,suggest_route,Finance,human_review
+5007SfIGZYlO9dj3Qw,How-To,0.7890973600102675,suggest_route,Customer Success,human_review
+500FflhaISBHhIqSGj,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500NqJAWFtWC2BmTSw,Integration,0.8871899615994542,suggest_route,Integrations,human_review
+500gEakjJy1sdNzmaJ,Feature Request,0.8244954807943654,suggest_route,Product,human_review
+50074uNKb9x5BSOSbP,Bug,0.871534356539186,suggest_route,Engineering,human_review
+500l755R1itAxHZWh2,Account Access,0.8799803507514031,suggest_route,Support,human_review
+500ElUa604vFmu7vNa,Billing,0.8324678272303373,suggest_route,Finance,human_review
+500yl8qMq54cHJY5VR,Account Access,0.9143128147519894,suggest_route,Support,human_review
+500szZuItcgn62dPFF,How-To,0.7999495554349688,suggest_route,Customer Success,human_review
+500JCHAcQI9MZyGpbQ,How-To,0.7461685032368296,suggest_route,Customer Success,human_review
+500P8ywxxp24NjbQZr,Billing,0.7957239234244535,suggest_route,Finance,human_review
+500FU2nguYTRc1ubkC,Bug,0.884704262094487,suggest_route,Engineering,human_review
+5006v5OBeXYUKZJtcE,Feature Request,0.9090724719497921,suggest_route,Product,human_review
+5009DOZK5DPGoFaJab,Billing,0.9012051973479102,suggest_route,Finance,human_review
+500MUWBrYRPjHZ6Ghu,How-To,0.942732827673077,suggest_route,Customer Success,human_review
+500vY3a536ZUv1ywf4,How-To,0.7874386931815831,suggest_route,Customer Success,human_review
+500fPOIu5i3suptIDy,Integration,0.7020225519396943,suggest_route,Integrations,human_review
+500nGOsaFi7CJagDzG,Integration,0.8768674859253279,suggest_route,Integrations,human_review
+500nZNBp9QtTY45WZx,How-To,0.7912373847180764,suggest_route,Customer Success,human_review
+500oulwzVDaWMAOSxt,Account Access,0.8873266790240155,suggest_route,Support,human_review
+500fh8lSqe7Tymj85p,Bug,0.903130460922308,suggest_route,Engineering,human_review
+500ftx13YstgW1oQ2e,How-To,0.9013005900065356,suggest_route,Customer Success,human_review
+500526u0RBdFy77T4c,Billing,0.9181491328443754,suggest_route,Finance,human_review
+500OrwM9iU8WWM72LC,Feature Request,0.8419138975594678,suggest_route,Product,human_review
+500JoqjX61FgJwjHFp,How-To,0.8562105403453296,suggest_route,Customer Success,human_review
+500fvOIiYyOFIz7KlN,How-To,0.8363502213722114,suggest_route,Customer Success,human_review
+500okawbgow84xoDvf,Bug,0.9109207830077991,suggest_route,Engineering,human_review
+500xQnWSHq1XANgYY3,Bug,0.931717801786873,suggest_route,Engineering,human_review
+5008nlihvGDfsFTiJi,How-To,0.9319893783845173,suggest_route,Customer Success,human_review
+500Z2Tmhn4KxSEh11f,Billing,0.9012051973479102,suggest_route,Finance,human_review
+5006J12LI57h42zYzD,How-To,0.951368091967291,suggest_route,Customer Success,human_review
+5001pwzeZGFJzc9jT8,Integration,0.6213421341797188,suggest_route,Integrations,human_review
+5005M099VaccYPpiFv,How-To,0.9464952901792905,suggest_route,Customer Success,human_review
+5005skSgSzttAOfctv,Bug,0.939457694216998,suggest_route,Engineering,human_review
+500UU9ilUuYuFpVXp5,Billing,0.9104506935425375,suggest_route,Finance,human_review
+500qBWxqXF1r5URmRV,Feature Request,0.9323890467443559,suggest_route,Product,human_review
+500OKwmsMGqZFui1fL,Integration,0.8719252434941761,suggest_route,Integrations,human_review
+500nif54K6iITOo3Me,How-To,0.8313480332395711,suggest_route,Customer Success,human_review
+500h6O3lCVWEFkHLKp,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500UfoBwg6J3nOI7pQ,Bug,0.8400851872354886,suggest_route,Engineering,human_review
+500EZmA2dGRcExNpr5,How-To,0.9432699614621587,suggest_route,Customer Success,human_review
+500NdH72LgV5cPBaL8,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500HjaJZowIaubHB4a,Feature Request,0.9465371808821408,suggest_route,Product,human_review
+5003aetNejTxRfChDJ,Bug,0.9637776967175381,suggest_route,Engineering,human_review
+500fIxdA9a34aIoQWi,Integration,0.8114228163290376,suggest_route,Integrations,human_review
+5004C1NdSAVjpb389d,Feature Request,0.9351556901472068,suggest_route,Product,human_review
+500W9toEoBJYtrUzGs,Account Access,0.8873266790240155,suggest_route,Support,human_review
+500sEfxc9Ji2xRxjOr,Billing,0.8953709898952559,suggest_route,Finance,human_review
+500njlMt42yQBxu585,Bug,0.871534356539186,suggest_route,Engineering,human_review
+500udMQfMslNINp8HL,Feature Request,0.940270008355189,suggest_route,Product,human_review
+500x1AChLuL7TstQfS,How-To,0.9123469431601257,suggest_route,Customer Success,human_review
+500S9mQaiBVQitfuWI,Integration,0.7917118985634133,suggest_route,Integrations,human_review
+500RDsi3YLGP52Vh4W,Account Access,0.9152754697107047,suggest_route,Support,human_review
+500hhrYMyWncLQyKQq,Bug,0.8359671893484494,suggest_route,Engineering,human_review
+500pgWXycfbjXCatHe,Bug,0.8359671893484494,suggest_route,Engineering,human_review
+500e7LGj6B0DNlAEwR,Bug,0.8979754668398635,suggest_route,Engineering,human_review
+500LeVVE1Be0yrdCqk,Billing,0.8811087639337396,suggest_route,Finance,human_review
+500rdZAqcFtGId3rTa,Feature Request,0.9636783252743759,suggest_route,Product,human_review
+500KChz1e75FLf09v1,Bug,0.9625515015956329,suggest_route,Engineering,human_review
+500E51sa8WFqbp1s21,Billing,0.9104506935425375,suggest_route,Finance,human_review
+500GgjEboQ5kuaujzM,Bug,0.8347565115253727,suggest_route,Engineering,human_review
+500LtPbnphuii2ga3G,How-To,0.9268903911981236,suggest_route,Customer Success,human_review
+500DYrQcoV2x9ZL5NY,Bug,0.903130460922308,suggest_route,Engineering,human_review
+500Hb9SPfkZ7YKmwOb,Account Access,0.9180410814479056,suggest_route,Support,human_review
+5002mzhXFnNmFKTC8x,Cancellation,0.8963421562666349,human_review,Retention,human_review
+500EqrrGWVGR6QwXya,Feature Request,0.9156313353322303,suggest_route,Product,human_review
+500zvZlDOu34pZRFyC,Bug,0.8400851872354886,suggest_route,Engineering,human_review
+500A7TIV036cIDwZHF,Account Access,0.9522748377739229,suggest_route,Support,human_review
+500X7xJBpYDRRFl5mY,How-To,0.9307412655179175,suggest_route,Customer Success,human_review
+5000mMhY8Rv8TmW13M,Integration,0.8107355842172927,suggest_route,Integrations,human_review
+500OqrCT5Ra4jizUfE,Bug,0.7812368501544397,suggest_route,Engineering,human_review
+500U7CP4lQsI2Ef4GG,How-To,0.7754653879295882,suggest_route,Customer Success,human_review
+500zaFBjJyzYUnEsuo,Integration,0.9012984183636703,suggest_route,Integrations,human_review
+500lxE4VUH8UcCJuiS,Feature Request,0.9351556901472068,suggest_route,Product,human_review
+500nsOspdhrkzdpK4w,Integration,0.8871899615994542,suggest_route,Integrations,human_review
+500MgrdSaIm3HoOnW6,How-To,0.7986225756905546,suggest_route,Customer Success,human_review
+5000cDBuLkplKf9y4K,Integration,0.7758668477253262,suggest_route,Integrations,human_review
+500WdBmFm0vIbyAPiR,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500YZktjrILvwVo3eX,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500hHQPIeOLx3GXGsF,Integration,0.6670698832419191,suggest_route,Integrations,human_review
+500NW4wi47Uiaxxsha,Bug,0.9109207830077991,suggest_route,Engineering,human_review
+5005ZE0eAZ2MayiF8a,Bug,0.9109207830077991,suggest_route,Engineering,human_review
+500XYr8pgpQKTInhUo,How-To,0.7510381007704398,suggest_route,Customer Success,human_review
+500iMbY4v7tkNfNZoI,Integration,0.7758668477253262,suggest_route,Integrations,human_review
+500Af3OtRwpKsAb4IL,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500ltliqbzwq5E71J3,Billing,0.8342834848538043,suggest_route,Finance,human_review
+500AnKv8fNOwxXaZKx,Billing,0.9104506935425375,suggest_route,Finance,human_review
+500Fs364Ij3Kyk4dnM,Integration,0.8134676848197583,suggest_route,Integrations,human_review
+5002SHyJ7zaM842aWe,Feature Request,0.9533807633113142,suggest_route,Product,human_review
+500IzUCBodSYX9YxKp,Account Access,0.9520909906193041,suggest_route,Support,human_review
+500Ij5C69svn2McKhS,Bug,0.884704262094487,suggest_route,Engineering,human_review
+500KfiHHTtfMWK9whH,How-To,0.8377048783881081,suggest_route,Customer Success,human_review
+500xpyAFR5UvpMePyN,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500yThfskEBnySW5o6,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500ZwTJUwfjmyfE0a1,Feature Request,0.9156313353322303,suggest_route,Product,human_review
+500PiRTazi52aanSje,Bug,0.903526348724843,suggest_route,Engineering,human_review
+500nPvTlxCeGraGr3A,Bug,0.903130460922308,suggest_route,Engineering,human_review
+500i9qFNmnNlQO8vhU,How-To,0.9021571591018444,suggest_route,Customer Success,human_review
+500Xi30ISZsiHTLWw9,Bug,0.8503524280258713,suggest_route,Engineering,human_review
+500xm7mYajgQWD96xg,Billing,0.9012051973479102,suggest_route,Finance,human_review
+5001mKcYvB7V1Jkf5W,Account Access,0.9520909906193041,suggest_route,Support,human_review
+500n0wWrk0eXXhalcW,Bug,0.8503524280258713,suggest_route,Engineering,human_review
+500FHLRFK9r3wRvbUn,Bug,0.903526348724843,suggest_route,Engineering,human_review
+500smDGAytjOg128NY,Integration,0.8598032787220775,suggest_route,Integrations,human_review
+500CFV90Xn31cK09yu,Bug,0.903526348724843,suggest_route,Engineering,human_review
+500F0VCfEhnkWbKOfs,Account Access,0.9520909906193041,suggest_route,Support,human_review
+500njCoTVofC0vkANF,How-To,0.8929657570794735,suggest_route,Customer Success,human_review
+500Ou8zzbR0GytAR5X,How-To,0.9142261239812779,suggest_route,Customer Success,human_review
+500T1Od6q2okngJGU1,Billing,0.8229932298019143,suggest_route,Finance,human_review
+5004x1sFjI4YDhYT4X,Integration,0.7589003578382552,suggest_route,Integrations,human_review
+500M8xmIgxBEFUCb9i,Integration,0.9482396847449708,suggest_route,Integrations,human_review
+500CxoOAdhOQf8hCYZ,Bug,0.9109207830077991,suggest_route,Engineering,human_review
+5000ea3Ug7HbWUQffu,How-To,0.6578582119080054,suggest_route,Customer Success,human_review
+500XT5vC72bShyghlj,Integration,0.8871899615994542,suggest_route,Integrations,human_review
+500lQkNGFK8tyXUq0R,Integration,0.8932055780498407,suggest_route,Integrations,human_review
+500jtBV61XnFyPBbdO,How-To,0.8686503180863184,suggest_route,Customer Success,human_review
+500mJ3zcBYRosKwLki,Integration,0.8991926134037758,suggest_route,Integrations,human_review
+500XoivaVGHQoUiZoI,Bug,0.903130460922308,suggest_route,Engineering,human_review
+500nebX3VncgRqcs1x,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500ZH3T2TE3eWqBV2z,Bug,0.903526348724843,suggest_route,Engineering,human_review
+500iQ0M9AaDKxWgTAZ,Account Access,0.8254085429742142,suggest_route,Support,human_review
+500iJs9rGXdlFGi2gN,Billing,0.9129870979304605,suggest_route,Finance,human_review
+500eLkcDcK2PC862CX,Bug,0.8996225694713257,suggest_route,Engineering,human_review
+500Ff4paroV9XKp0Ym,Bug,0.8277594543871784,suggest_route,Engineering,human_review
+500uETULsTPvdMt14N,How-To,0.8219942816708795,suggest_route,Customer Success,human_review
+500SkhBFewS339SSld,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500N9kNfnQ8lPLcsxY,Account Access,0.8254085429742142,suggest_route,Support,human_review
+500di31fKANqLzwv04,Bug,0.8400851872354886,suggest_route,Engineering,human_review
+500RBbRZhYrw3nysAM,How-To,0.9401378328929213,suggest_route,Customer Success,human_review
+500XrRrd5lFQzufYjJ,Integration,0.8932055780498407,suggest_route,Integrations,human_review
+500D3ETrqHHjEZcoa4,How-To,0.6928257616654111,suggest_route,Customer Success,human_review
+500HlFBLo35wEfZaD0,Feature Request,0.9266400215284363,suggest_route,Product,human_review
+5006Ew20fmi1gbthzd,Bug,0.9530901975026647,suggest_route,Engineering,human_review
+500jSrfEvOBR2p00R9,Bug,0.9583012457049637,suggest_route,Engineering,human_review
+500LMYzKtqlnMUwntq,Feature Request,0.8832863914124048,suggest_route,Product,human_review
+500DzHdO74wcWJDxS6,Bug,0.975683634641481,suggest_route,Engineering,human_review
+500iIR0KATy4U4f5j8,Bug,0.8416161664012292,suggest_route,Engineering,human_review
+500nudcQrdCvt1g1ID,Account Access,0.8799803507514031,suggest_route,Support,human_review
+500hA2ChIuj8sPwF2Q,Integration,0.892266936874435,suggest_route,Integrations,human_review
+500KopYN8fcqpgIN7D,How-To,0.9275394226188652,suggest_route,Customer Success,human_review
+500gKYbT1qEAXpKlDq,Billing,0.887939670923753,suggest_route,Finance,human_review
+500668ZAFcbm2BEMpW,Bug,0.9109207830077991,suggest_route,Engineering,human_review
+500ENsh0q5BQaFY3tq,Bug,0.8277594543871784,suggest_route,Engineering,human_review
+500FnLn4LapgrzsYzR,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500OqSovhQIL7o2rES,Bug,0.871534356539186,suggest_route,Engineering,human_review
+500PwSKFLlHM1ouYcB,Bug,0.8347565115253727,suggest_route,Engineering,human_review
+500ntFQGNeOybIflgM,How-To,0.9565235064353361,suggest_route,Customer Success,human_review
+500PgfxxFFyk9PKAsT,How-To,0.8325193337505887,suggest_route,Customer Success,human_review
+500EQutVFjShzlZ8B0,Billing,0.8935092850383364,suggest_route,Finance,human_review
+5005ZJilauhrLzKIMI,Bug,0.9637776967175381,suggest_route,Engineering,human_review
+500bcBcyvywKE4FnWM,Cancellation,0.9102963779626985,human_review,Retention,human_review
+500aIZmPB6GOgIP4jh,How-To,0.7054365179618654,suggest_route,Customer Success,human_review
+500Pojlj3Tf0j9XwPt,Bug,0.888052386589971,suggest_route,Engineering,human_review
+50008kKsRxjE0nxDWk,Billing,0.8994126358056266,suggest_route,Finance,human_review
+500mTGSfApkgtGvvDk,Bug,0.8348874987365467,suggest_route,Engineering,human_review
+5006EorHlQzFvz6FUn,How-To,0.8621502904806028,suggest_route,Customer Success,human_review
+500qFYjOzuvZQYYkMb,How-To,0.9268903911981236,suggest_route,Customer Success,human_review
+500lIiGSUJ2tTwJkHj,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500af8aXG63Rpp53Wj,Bug,0.6961257091129756,suggest_route,Engineering,human_review
+5009hESPNEBjdomzIV,Billing,0.9111100647258129,suggest_route,Finance,human_review
+500rM36W17FmxJosVg,Feature Request,0.9465371808821408,suggest_route,Product,human_review
+500uC7urKfXax7pqaa,How-To,0.876893979102989,suggest_route,Customer Success,human_review
+500404FSWMuviQVJBQ,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500lBRN5MjInd6tJSp,Integration,0.9582276278387765,suggest_route,Integrations,human_review
+500eeRdsSWHVO7PqT6,Integration,0.8803404939135115,suggest_route,Integrations,human_review
+500BsmKgT8tY84FBel,Integration,0.9221983133168896,suggest_route,Integrations,human_review
+500nTWj6odyJGcZDNs,Bug,0.871534356539186,suggest_route,Engineering,human_review
+500y5KltW1qjdpZSey,Bug,0.9145141546214635,suggest_route,Engineering,human_review
+5005NVTwnd4IkPlw4u,How-To,0.8927977957728808,suggest_route,Customer Success,human_review
+500tY7e3rQrduPLN8q,How-To,0.6863168259271051,suggest_route,Customer Success,human_review
+5006KwJeWDq3ZsygD2,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500rCwJvCXdtSwCGdE,How-To,0.8261243296423627,suggest_route,Customer Success,human_review
+500BcIJCdLlJAuXFwm,How-To,0.8219511713002567,suggest_route,Customer Success,human_review
+500318S7rydhSMZwoz,How-To,0.776717472626597,suggest_route,Customer Success,human_review
+500Pj3gxwf8sPj2KTF,Bug,0.939457694216998,suggest_route,Engineering,human_review
+500k4wQHLeeMZ67ven,Bug,0.944969331661078,suggest_route,Engineering,human_review
+500rYyOy3TZjMyq9E0,Cancellation,0.7459381037867904,human_review,Retention,human_review
+500bUJxnb4ADkgJzfm,Bug,0.8359671893484494,suggest_route,Engineering,human_review
+500WqhVXefZ99MbLUP,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500hIUp5ZVWKS7nHs9,Bug,0.8499335525698966,suggest_route,Engineering,human_review
+500jO0WrFdqpclHX7a,How-To,0.8792755632813674,suggest_route,Customer Success,human_review
+500F5W4m2H7XUg8LhU,Bug,0.8503524280258713,suggest_route,Engineering,human_review
+5003a3ZPH9EQu3OD3r,Bug,0.871534356539186,suggest_route,Engineering,human_review
+500DygTdS2RjULajOE,Cancellation,0.8963421562666349,human_review,Retention,human_review
+5006OrvjQRDI1pmYO4,How-To,0.882686498919917,suggest_route,Customer Success,human_review
+500SSIN4gA15PUwWQM,Bug,0.7847888500485227,suggest_route,Engineering,human_review
+500rOFJ3qCLcKwnydQ,How-To,0.8114205541617744,suggest_route,Customer Success,human_review
+500q6oLgKwVcgxTQt8,How-To,0.9455472803949216,suggest_route,Customer Success,human_review
+500yoUXVlS89DEXOIz,Integration,0.8803404939135115,suggest_route,Integrations,human_review
+5004FtOWfk6WO7ELtc,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500RPpLZoqAFR7BIrG,Bug,0.9287164816700557,suggest_route,Engineering,human_review
+5001oE44BDpDM1zQLs,Feature Request,0.9113811541409699,suggest_route,Product,human_review
+500OM0Hd3Bszg0PZDB,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500r3BwYFu88DfRDCk,Billing,0.9104506935425375,suggest_route,Finance,human_review
+500fv4XrJhJUKvofnl,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500wxwmflQyPHV7Ptv,Billing,0.9104506935425375,suggest_route,Finance,human_review
+500DVGP4TJHXl9GQES,Integration,0.967382455107326,suggest_route,Integrations,human_review
+5005qCLJxfQCp2ECUN,Integration,0.8670485889883636,suggest_route,Integrations,human_review
+500fBfNAApK9G4Q84n,Bug,0.9466021618422806,suggest_route,Engineering,human_review
+500fncfPXwspsnCOSo,Integration,0.8057427958870635,suggest_route,Integrations,human_review
+500QeJDThvlrVYhuSC,Integration,0.9044010902324066,suggest_route,Integrations,human_review
+500L1y8vPxY5LDyAjo,How-To,0.7524849141025984,suggest_route,Customer Success,human_review
+500axpm4ToggkiN8bA,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500dRneu85Efw3uLIg,How-To,0.8927977957728808,suggest_route,Customer Success,human_review
+50051Wp0hVOvAbbKXj,How-To,0.9387287395243643,suggest_route,Customer Success,human_review
+500fl3EoWuUtKI6R1U,Billing,0.9351313462486995,suggest_route,Finance,human_review
+500uKaR7smmfD1y8ei,Cancellation,0.8459759040044169,human_review,Retention,human_review
+500KdiKpOVm0sI6XD4,Account Access,0.8254085429742142,suggest_route,Support,human_review
+500ll6EnWI4y8NJlOv,How-To,0.9140693478326342,suggest_route,Customer Success,human_review
+500MEy7JssDGskSraQ,How-To,0.9482175132043746,suggest_route,Customer Success,human_review
+500TlqoEMgyZ5VGMYP,How-To,0.910382383890347,suggest_route,Customer Success,human_review
+500TOCyezY7MGLZywU,Bug,0.9466021618422806,suggest_route,Engineering,human_review
+500XyrxulXovBXbIcS,How-To,0.8953975529941691,suggest_route,Customer Success,human_review
+500WMk8v4kWycCEph3,How-To,0.8880969062915332,suggest_route,Customer Success,human_review
+500pDRhBJZw2xa5qdQ,Billing,0.8544232686327199,suggest_route,Finance,human_review
+500JphVrUEGlwFN2d6,Feature Request,0.882309340408891,suggest_route,Product,human_review
+500dSv7SDtxOcMnkA2,Billing,0.8229932298019143,suggest_route,Finance,human_review
+5002swa5wjXYZMRYzh,Bug,0.9466021618422806,suggest_route,Engineering,human_review
+500Y3kDwRsk4H5ZHqF,Billing,0.9104506935425375,suggest_route,Finance,human_review
+500S1NaaDA8lfp86Ir,How-To,0.9401378328929213,suggest_route,Customer Success,human_review
+500Rs6cGLTlJU5buiG,Bug,0.903526348724843,suggest_route,Engineering,human_review
+500raIxpdsH9NJAOdY,Bug,0.903526348724843,suggest_route,Engineering,human_review
+500wM5qlpRZrL21tVh,Bug,0.9466021618422806,suggest_route,Engineering,human_review
+500gWEgoE1p17jJjSF,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500M7g8JEIEsjrCuKl,How-To,0.8377048783881081,suggest_route,Customer Success,human_review
+500mGQoVZR1XsNC269,Bug,0.903130460922308,suggest_route,Engineering,human_review
+500kS5bMz1WPpW8n5k,Bug,0.884704262094487,suggest_route,Engineering,human_review
+500z6PrOCvaEPu86P0,Integration,0.848806035430083,suggest_route,Integrations,human_review
+500kmq2pzbLe5daZk6,How-To,0.8944018944504425,suggest_route,Customer Success,human_review
+500X9088GeahXdrL3f,Integration,0.8967888265402109,suggest_route,Integrations,human_review
+500ecMuLHGdRrFDZx9,Billing,0.8379148585607697,suggest_route,Finance,human_review
+500GBFWvqVGIHuFEz3,Bug,0.903130460922308,suggest_route,Engineering,human_review
+500mP5nTl4YS85dTWc,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500cS4nozEa6bSzowk,Account Access,0.9143128147519894,suggest_route,Support,human_review
+5000d4zycmv6E8g1WU,Account Access,0.9522748377739229,suggest_route,Support,human_review
+500SCCnEv6vuLAvbDx,Account Access,0.9152754697107047,suggest_route,Support,human_review
+500zFSiGnoRcui8kXW,Account Access,0.9143128147519894,suggest_route,Support,human_review
+500ZaA2S9tnsrbYniZ,Account Access,0.9506737224475409,suggest_route,Support,human_review
+500v08XpQz1YwpD2nw,Account Access,0.8873266790240155,suggest_route,Support,human_review
+500yLNFIwGXNmcBsfo,Billing,0.9012051973479102,suggest_route,Finance,human_review
+500iXJTz4MLM21AiFW,How-To,0.7986225756905546,suggest_route,Customer Success,human_review
+500tTQCMaLpazUvKx5,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500y0HtiYacU5WrqJo,Billing,0.8581301246066763,suggest_route,Finance,human_review
+500nyhwHWB7C4GgeJO,Account Access,0.9506737224475409,suggest_route,Support,human_review
+500vMXBf1uWpmsemcs,Integration,0.8694073356263577,suggest_route,Integrations,human_review
+500LRZEVIiWtakAr8C,How-To,0.9084367324193834,suggest_route,Customer Success,human_review
+500xMTkIzTkrxBo5RE,Integration,0.7926207680803904,suggest_route,Integrations,human_review
+500HC60E6RBsflKudy,Billing,0.8994126358056266,suggest_route,Finance,human_review
+500V9AQgxr4SP3GoSo,Bug,0.9577557714693666,suggest_route,Engineering,human_review
+500M1Dw7ByQe5sSonD,Billing,0.7652231245933505,suggest_route,Finance,human_review
+500o5yrE1Qtw1mOzom,Integration,0.8547936926427225,suggest_route,Integrations,human_review
+500WGvWq0XgAyQMWuX,Billing,0.9104506935425375,suggest_route,Finance,human_review
+500rdgA1hjLBvq1awD,Integration,0.891312751434833,suggest_route,Integrations,human_review
+50098TWTqthqeKnEZb,Feature Request,0.9293079429330834,suggest_route,Product,human_review
+500ecis2Oz5qtjNWBH,How-To,0.8642281394079135,suggest_route,Customer Success,human_review
+500HJGgfERKfhZJJwi,Bug,0.903130460922308,suggest_route,Engineering,human_review
+500xwyr7kaOClkpE3u,Bug,0.9534013986632335,suggest_route,Engineering,human_review
+500maoFEbw8tgtdufG,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500UKSifEjdd56mDQs,Feature Request,0.9636783252743759,suggest_route,Product,human_review
+5008IKVDNLsqtIyLVn,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500wh2OgbhMeK8L1zn,Integration,0.903277249599593,suggest_route,Integrations,human_review
+500KAXz0DUMEExGvbi,How-To,0.9307412655179175,suggest_route,Customer Success,human_review
+5005DPYU9AxFWHvBFG,Bug,0.8292495427506517,suggest_route,Engineering,human_review
+500hChc8dPwpX2n9QD,Billing,0.9351313462486995,suggest_route,Finance,human_review
+500eBCFvV1wkULy9bB,Bug,0.7812368501544397,suggest_route,Engineering,human_review
+500RMDWaQiU0ithSFX,How-To,0.8499229554289226,suggest_route,Customer Success,human_review
+500r8bfeVLuT7H9U5Y,Bug,0.7812368501544397,suggest_route,Engineering,human_review
+500Hze0BFQnDyu16IU,How-To,0.813576798211945,suggest_route,Customer Success,human_review
+500cmJLRzTsPUjSBkI,Integration,0.7352362635684302,suggest_route,Integrations,human_review
+500lWSzSRH03vFD97V,Feature Request,0.8706761955782477,suggest_route,Product,human_review
+500gR5SIsBiYsafgvZ,How-To,0.9069831478517937,suggest_route,Customer Success,human_review
+500BdI2V1ZXYk2JRHK,Bug,0.9637776967175381,suggest_route,Engineering,human_review
+500iK91FzfpsXxyTKG,Bug,0.8400851872354886,suggest_route,Engineering,human_review
+500qDAeFiTyCGlQtzW,Bug,0.9256422662612533,suggest_route,Engineering,human_review
+500buJ3vPxlKojjuqH,Bug,0.948432662867059,suggest_route,Engineering,human_review
+500TZhzWWVFA5maCLF,Feature Request,0.8419138975594678,suggest_route,Product,human_review
+50002riDjaOvHrh5GF,Bug,0.8981812099794138,suggest_route,Engineering,human_review
+50058hIlI5l0BccLni,Bug,0.8347565115253727,suggest_route,Engineering,human_review
+5004YjSP46zyIgAbaG,Feature Request,0.8832863914124048,suggest_route,Product,human_review
+500wzshZr5NelQc34z,How-To,0.8715949871092481,suggest_route,Customer Success,human_review
+500rMqeeb1RdZcpHfB,Bug,0.9738474030138156,suggest_route,Engineering,human_review
+500Ob9iPoPSqpyRt0W,Bug,0.8359671893484494,suggest_route,Engineering,human_review
+500ZWzcbi5imMpgCtt,Integration,0.8212818819845307,suggest_route,Integrations,human_review
+500rTsmgN5cYEki3sj,How-To,0.7054365179618654,suggest_route,Customer Success,human_review
+500bQUcvZdVu903o9X,Bug,0.9109207830077991,suggest_route,Engineering,human_review
+500oDdZwy28KASF3HX,Feature Request,0.9204913204148266,suggest_route,Product,human_review
+500X1djgk8VZldyyCY,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500WpBNQlWpng1myFo,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500g9hn3ui3GdA4jrQ,Integration,0.8871899615994542,suggest_route,Integrations,human_review
+500qj7sMuVk6JStO3N,Feature Request,0.9448691678333707,suggest_route,Product,human_review
+50033REyWIXzBgyCXe,How-To,0.8407922412450609,suggest_route,Customer Success,human_review
+500kkkXAspzx8c4uwm,Bug,0.9546748187091775,suggest_route,Engineering,human_review
+500utRFk5LYYofaqOM,Bug,0.9534013986632335,suggest_route,Engineering,human_review
+500lw8z6IvA7LVIpDp,How-To,0.8874991950745927,suggest_route,Customer Success,human_review
+500JTXaM9CD3TwgP07,Bug,0.8503524280258713,suggest_route,Engineering,human_review
+500Qqj7sWBvirsM7U8,Feature Request,0.8244954807943654,suggest_route,Product,human_review
+500pR9BjWsD1a5Zzza,How-To,0.9510903790733429,suggest_route,Customer Success,human_review
+500TAYhuFdoxDMLr3A,How-To,0.8715949871092481,suggest_route,Customer Success,human_review
+500VcgdIxZyVE24wgV,Cancellation,0.9373571581375602,human_review,Retention,human_review
+500AGppERel5in4yOK,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500JZps6LxLh7ccpwt,Feature Request,0.8832863914124048,suggest_route,Product,human_review
+5008AWuLyENlN1RH7S,Feature Request,0.9537057136973123,suggest_route,Product,human_review
+500UTItxUIzzRQ7jQO,Feature Request,0.9207262107086779,suggest_route,Product,human_review
+500Nz9mb11toS7qP5D,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500rPXhnkrylK4DnDH,Bug,0.9115102844389306,suggest_route,Engineering,human_review
+500Q3Y9OgjmxyeJOk0,Bug,0.8024952700855945,suggest_route,Engineering,human_review
+500oPsmWPcd1Qe9GmU,Billing,0.9351313462486995,suggest_route,Finance,human_review
+500vwKVYWoIhvnQP7H,How-To,0.933101147251075,suggest_route,Customer Success,human_review
+500U5JO29KY3FfD5IH,Integration,0.7966830906247626,suggest_route,Integrations,human_review
+500AqGynuHPi0SXiXb,Integration,0.8050583335709963,suggest_route,Integrations,human_review
+500wvggHm9t2W7Vkks,Bug,0.9466021618422806,suggest_route,Engineering,human_review
+500wkG8YMhoOB1Dtzh,Feature Request,0.9677409237549792,suggest_route,Product,human_review
+500S1WhBDw2xYu90hw,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500m3K28GQW9wuT8N8,Account Access,0.9152754697107047,suggest_route,Support,human_review
+500oDl7FOnBxglvFUP,Cancellation,0.8317028928915569,human_review,Retention,human_review
+500RnMYRl9DV5AmgeD,How-To,0.8727088979584426,suggest_route,Customer Success,human_review
+500mNUPw3V81m8hkIM,Account Access,0.9506737224475409,suggest_route,Support,human_review
+500HagK2g86ifLVBXh,How-To,0.9401378328929213,suggest_route,Customer Success,human_review
+500nNroULzSoL9f2LG,Billing,0.9012051973479102,suggest_route,Finance,human_review
+500mB94v28qwDQJsa1,Cancellation,0.7459381037867904,human_review,Retention,human_review
+500kTxxVvfNkrmKIvj,Bug,0.9175690259199505,suggest_route,Engineering,human_review
+5000Zu2twjeW2lrkoG,Integration,0.731905256741813,suggest_route,Integrations,human_review

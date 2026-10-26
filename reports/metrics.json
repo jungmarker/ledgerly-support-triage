@@ -1,0 +1,13 @@
+{
+  "tickets": 484,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "routing_coverage": 0.9710743801652892,
+  "accepted_accuracy": 1.0,
+  "noisy_agent_accuracy": 0.7541322314049587,
+  "training_tickets": 2382,
+  "validation_tickets": 173,
+  "confidence_threshold": 0.57,
+  "novel_text_accuracy": 0.2857142857142857,
+  "novel_text_routing_coverage": 0.0
+}

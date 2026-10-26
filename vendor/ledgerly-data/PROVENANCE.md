@@ -1,0 +1,1 @@
+Vendored from Nick Jungmarker’s MIT-licensed Ledgerly generator, commit 339280a4e8ecd67c3d747f5ba560807b41038dc7. Included for credential-free reproduction. No source changes. Original LICENSE retained.

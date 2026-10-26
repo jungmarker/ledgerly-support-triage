@@ -1,0 +1,51 @@
+case_id,predicted_category,confidence,action,suggested_team,priority
+500PwSKFLlHM1ouYcB,Bug,0.8347565115253727,suggest_route,Engineering,human_review
+500rohxtNBXvfDuTM4,Bug,0.884704262094487,suggest_route,Engineering,human_review
+500g0o9x5yNDX4mdCc,How-To,0.8299475770873365,suggest_route,Customer Success,human_review
+5002eOqHBzGFUynXFU,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500EiHyOW4SsRTYevO,Feature Request,0.9595442628998305,suggest_route,Product,human_review
+5005itq6vzgCusgstP,How-To,0.9030694297630246,suggest_route,Customer Success,human_review
+500yqYMYs8MXgLozTr,Integration,0.9138485584250965,suggest_route,Integrations,human_review
+500bK574vBmZklAas0,How-To,0.593036786573491,suggest_route,Customer Success,human_review
+500CZ1l4QLTnP67Kvi,How-To,0.8366897088186147,suggest_route,Customer Success,human_review
+500zppd4hZd1ScH37T,Feature Request,0.9637451055507302,suggest_route,Product,human_review
+500OJscLiUUT7qxFGC,Integration,0.8932055780498407,suggest_route,Integrations,human_review
+500WpBNQlWpng1myFo,Account Access,0.9180410814479056,suggest_route,Support,human_review
+5001mKcYvB7V1Jkf5W,Account Access,0.9520909906193041,suggest_route,Support,human_review
+5007x8n3Ck8QlpYKCt,Integration,0.8092913657102433,suggest_route,Integrations,human_review
+500ot402U5ixFh0CCO,How-To,0.858301176359678,suggest_route,Customer Success,human_review
+500lqKoQPbH6ufAfxU,How-To,0.9455472803949216,suggest_route,Customer Success,human_review
+500EHgby3vaWhx0NJi,Billing,0.9012051973479102,suggest_route,Finance,human_review
+500j0LwRXAmGtGyO12,Billing,0.9351313462486995,suggest_route,Finance,human_review
+500Vac6XgBCo2ass8g,Cancellation,0.8125409401110267,human_review,Retention,human_review
+500at02of6Vh8RSEkf,Feature Request,0.9465371808821408,suggest_route,Product,human_review
+500DI1gi8b0PwXSgV1,Account Access,0.8799803507514031,suggest_route,Support,human_review
+5000zvTeYP3Eqm6SKe,How-To,0.8293057254044394,suggest_route,Customer Success,human_review
+500jxefeQKt0wXu9uC,How-To,0.8160386054503465,suggest_route,Customer Success,human_review
+500antfS0bTAdqqXKa,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500yQrVmvKUDqnfrKf,Bug,0.871534356539186,suggest_route,Engineering,human_review
+5008AWuLyENlN1RH7S,Feature Request,0.9537057136973123,suggest_route,Product,human_review
+500vMXBf1uWpmsemcs,Integration,0.8694073356263577,suggest_route,Integrations,human_review
+500HtK2zziBT6IW1pU,How-To,0.7499290601708197,suggest_route,Customer Success,human_review
+500wX54YTIOHlsb6zQ,Billing,0.9116882695067557,suggest_route,Finance,human_review
+500Cdntw4ziPyTKrBS,Billing,0.8229932298019143,suggest_route,Finance,human_review
+500XLIjY110P1jdpES,Billing,0.8841158825767522,suggest_route,Finance,human_review
+5000mMhY8Rv8TmW13M,Integration,0.8107355842172927,suggest_route,Integrations,human_review
+500csllvYsPuczrCUv,Integration,0.7932742914501073,suggest_route,Integrations,human_review
+500ElUa604vFmu7vNa,Billing,0.8324678272303373,suggest_route,Finance,human_review
+500tdq3B62s6qAgEUl,Bug,0.8400851872354886,suggest_route,Engineering,human_review
+500VQdtPfoyrBTUJBu,Integration,0.9389453906670128,suggest_route,Integrations,human_review
+500D3wRhQXZZ2OexGe,Integration,0.9566625498411133,suggest_route,Integrations,human_review
+500l9aCgVB0fwgYcZQ,Account Access,0.9180410814479056,suggest_route,Support,human_review
+500WevRBWfEZNwxm0K,Bug,0.884704262094487,suggest_route,Engineering,human_review
+500hsRRTQeP8uZCmFd,Bug,0.7847888500485227,suggest_route,Engineering,human_review
+500abvaaZSe2z0aY1k,How-To,0.9142261239812779,suggest_route,Customer Success,human_review
+500LRJ3BX6NE2KGvS2,How-To,0.8584538994215347,suggest_route,Customer Success,human_review
+500rTsmgN5cYEki3sj,How-To,0.7054365179618654,suggest_route,Customer Success,human_review
+500rSKILTu9gJfMBIt,Feature Request,0.8948874549238893,suggest_route,Product,human_review
+500SQOUyu0T8brN0XX,Account Access,0.8873266790240155,suggest_route,Support,human_review
+500tTMKc5JRNh8KF6x,Integration,0.8932055780498407,suggest_route,Integrations,human_review
+500cmJLRzTsPUjSBkI,Integration,0.7352362635684302,suggest_route,Integrations,human_review
+500rCIMW8hifLRGh3L,How-To,0.930113880944752,suggest_route,Customer Success,human_review
+5000Zu2twjeW2lrkoG,Integration,0.731905256741813,suggest_route,Integrations,human_review
+500n0E1Ah3iz27nvLr,Billing,0.7085474382428152,suggest_route,Finance,human_review

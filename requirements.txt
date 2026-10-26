@@ -1,0 +1,7 @@
+./vendor/ledgerly-data
+duckdb==1.4.1
+pandas==2.3.3
+numpy==2.3.4
+scikit-learn==1.7.2
+matplotlib==3.10.7
+pytest==8.4.2

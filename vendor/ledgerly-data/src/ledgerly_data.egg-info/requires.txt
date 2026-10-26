@@ -1,0 +1,8 @@
+numpy>=2
+pandas>=2.2
+faker>=30
+pyarrow>=17
+duckdb>=1.1
+
+[dev]
+pytest>=8

@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: ledgerly-data
+Version: 0.1.0
+Summary: Synthetic but realistic B2B SaaS company data (CRM, billing, product usage, support) with ground truth for analytics and AI projects.
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: numpy>=2
+Requires-Dist: pandas>=2.2
+Requires-Dist: faker>=30
+Requires-Dist: pyarrow>=17
+Requires-Dist: duckdb>=1.1
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
+Dynamic: license-file

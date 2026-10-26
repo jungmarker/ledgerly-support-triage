@@ -1,0 +1,15 @@
+case_id,subject,description,true_category
+novel1,Leaving your platform,Please stop our recurring agreement after the current term.,Cancellation
+novel2,Need learning resources,Where can a beginner learn the monthly accounting workflow?,How-To
+novel3,Unexpected debit,Our card was debited twice for the same period.,Billing
+novel4,Identity provider trouble,Employees cannot authenticate since we enabled federated sign in.,Account Access
+novel5,Connector stopped,The accounting connector has not transferred new entries since Monday.,Integration
+novel6,Enhancement idea,Could a future release include dark mode?,Feature Request
+novel7,Incorrect arithmetic,The sum in the dashboard differs from the sum of the underlying entries.,Bug
+novel8,Service termination,Our procurement team chose a replacement vendor. End the agreement.,Cancellation
+novel9,Getting started,Please point me to a tutorial for setting up approval chains.,How-To
+novel10,Refund needed,You invoiced the wrong company. Please credit the charge.,Billing
+novel11,Credentials rejected,My valid credentials no longer let me enter the application.,Account Access
+novel12,External data missing,The ERP connection appears healthy but no new records arrive.,Integration
+novel13,Accessibility suggestion,Please consider adding keyboard navigation in a future version.,Feature Request
+novel14,Unexpected crash,Opening the report immediately terminates the browser tab.,Bug
