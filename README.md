@@ -2,13 +2,13 @@
 
 **Can suggested ticket routing improve on noisy manual categories while exposing uncertainty?**
 
-Text classification, account-separated evaluation, confidence-based human review and routing. Built for a applied ai / support analytics portfolio using [Ledgerly](https://github.com/jungmarker/ledgerly-data), a fictional B2B SaaS business. All records are synthetic. This is a reproducible portfolio implementation, not a claim of deployed customer impact.
+Text classification, account-separated evaluation, confidence-based human review and routing. Built for a applied ai / support analytics portfolio using [Ledgerly](vendor/ledgerly-data/PROVENANCE.md), a fictional B2B SaaS business. All records are synthetic. This is a reproducible portfolio implementation, not a claim of deployed customer impact.
 
 ![Computed analysis preview](reports/chart.svg)
 
 ## Try it
 
-Python 3.11–3.14 and Git are required. Run from this repository’s root.
+Python 3.11 and Git are recommended. Run from this repository’s root.
 
 ```bash
 python3 -m venv .venv
@@ -38,6 +38,10 @@ Training uses pre-2026 tickets from 60% of accounts. Validation uses January–M
 
 **Measures:** Category accuracy/macro-F1, confusion matrix, review coverage, accuracy on accepted suggestions and separate novel-wording stress results.
 
+## Seed-42 findings
+
+The synthetic-template test reaches 100% category accuracy versus 75.4% for noisy agent labels. Accuracy drops to 28.6% across fourteen separately authored novel-wording examples; every novel example is sent for human review. The gap is evidence against deploying the baseline as an autonomous classifier.
+
 ## Business interpretation
 
 Use the outputs to ask whether the decision is supportable, what could go wrong and which additional evidence would change the recommendation. The reports intentionally retain limitations and unsuccessful cases. Performance on generated data measures implementation behavior; it does not establish performance on a real employer’s data.
@@ -53,3 +57,10 @@ This is a local ML baseline, not an LLM or autonomous agent. Synthetic templates
 ## Authorship
 
 Created for Nick Jungmarker’s portfolio with AI-assisted implementation. The commit history records the actual build; no backdated history or employer outcomes are claimed. Before presenting this as evidence of personal proficiency, reproduce it, review the design and be prepared to explain and modify the code. MIT license; the source generator is MIT licensed.
+
+## Related portfolio projects
+
+- [ledgerly-revenue-warehouse](https://github.com/jungmarker/ledgerly-revenue-warehouse)
+- [ledgerly-crm-resolution](https://github.com/jungmarker/ledgerly-crm-resolution)
+- [ledgerly-sales-forecast](https://github.com/jungmarker/ledgerly-sales-forecast)
+- [ledgerly-churn-radar](https://github.com/jungmarker/ledgerly-churn-radar)

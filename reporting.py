@@ -8,6 +8,29 @@ import matplotlib
 
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+from matplotlib.ticker import StrMethodFormatter
+
+
+def display_value(key, value):
+    if isinstance(value, str):
+        return value
+    if "USD" in key or "ARR_USD" == key:
+        return f"${value:,.0f}"
+    if any(
+        token in key.lower()
+        for token in [
+            "accuracy",
+            "precision",
+            "recall",
+            "coverage",
+            "prevalence",
+            "nrr",
+        ]
+    ):
+        return f"{value:.1%}"
+    if isinstance(value, int):
+        return f"{value:,}"
+    return f"{value:,.4f}"
 
 
 def render(out, title, metrics, tables, narrative, chart=None):
@@ -30,12 +53,17 @@ def render(out, title, metrics, tables, narrative, chart=None):
         fig, ax = plt.subplots(figsize=(10, 4))
         ax.bar(labels, values, color="#22b8a8")
         ax.set_ylabel(ylabel)
+        ax.yaxis.set_major_formatter(
+            StrMethodFormatter(
+                "{x:,.2f}" if max(values, default=0) < 10 else "{x:,.0f}"
+            )
+        )
         ax.tick_params(axis="x", rotation=25)
         fig.tight_layout()
         fig.savefig(out / "chart.svg")
         plt.close(fig)
     cards = "".join(
-        f"<article><small>{html.escape(k)}</small><strong>{html.escape(str(v))}</strong></article>"
+        f"<article><small>{html.escape(k.replace('_', ' '))}</small><strong>{html.escape(display_value(k, v))}</strong></article>"
         for k, v in metrics.items()
         if isinstance(v, (int, float, str))
     )
